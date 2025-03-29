@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vscode,git,github,powershell,roblox" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vscode,git,github,powershell,roblox" alt="Tech Stack" />
 </p>
 
 ---
@@ -29,8 +29,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wynsher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wynsher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -39,11 +37,4 @@
 ## 🔥 GitHub Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wynsher&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🌟 Random Cool Badge  
-<p align="center">
-  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru" alt="Random Cool Badge" />
 </p>
