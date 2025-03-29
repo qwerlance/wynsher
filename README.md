@@ -6,10 +6,10 @@
 ## Socials  
 <p align="center">
   <a href="https://www.youtube.com/c/wynsherdev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50" />
   </a>
   <a href="https://instagram.com/wynsherdev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## Page views  
+## Page Views  
 <p align="center">
-  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru&size=250" alt="Loli" />
+  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru&size=250" alt="Page Views" />
 </p>
