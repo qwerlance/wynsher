@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Wynsher 🚀</h1>
-<h3 align="center">A passionate bot developer from Turkey</h3>
+<h3 align="center">A Passionate Bot Developer from Turkey | 2025 Edition</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wynsher&label=🔥%20Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔗 Connect with me  
+## 🔗 Connect with Me  
 <p align="center">
   <a href="https://www.youtube.com/c/wynsherdev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -21,30 +21,29 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,vscode,git,github,powershell,roblox" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wynsher&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wynsher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wynsher&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wynsher&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🔥 GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wynsher&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wynsher&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🌟 Random Cool Badge  
 <p align="center">
-  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru" />
+  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru" alt="Random Cool Badge" />
 </p>
