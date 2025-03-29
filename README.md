@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 Loli Badge  
+## 🌟 loli  
 <p align="center">
   <img src="https://count.getloli.com/get/@wynsher?theme=moebooru&size=150" alt="Loli" />
 </p>
