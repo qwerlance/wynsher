@@ -8,8 +8,11 @@
   <a href="https://www.youtube.com/c/wynsherdev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50" />
   </a>
-  <a href="https://instagram.com/wynsherdev" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" />
+  <a href="https://discord.com/users/1159431835420467221" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Discord_logo_2021.svg" alt="Discord" width="50" height="50" />
+  </a>
+  <a href="https://tiktok.com/wynsher" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="50" height="50" />
   </a>
 </p>
 
@@ -32,5 +35,5 @@
 
 ## Page Views  
 <p align="center">
-  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru&size=250" alt="Page Views" />
+  <img src="https://count.getloli.com/get/@wynsher?theme=moebooru&size=250" alt="Loli" />
 </p>
