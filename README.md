@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm qwerlance</h1>
-<h3 align="center">Bot Developer from Turkey</h3>
+<h3 align="center">Bot,Web Developer from Turkey</h3>
 
 ---
 
