@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Wynsher</h1>
+<h1 align="center">Hey! I'm qwerlance</h1>
 <h3 align="center">Bot Developer from Turkey</h3>
 
 ---
